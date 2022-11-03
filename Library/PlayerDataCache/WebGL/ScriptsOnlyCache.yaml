@@ -860,4 +860,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/PingPongGame.unity
-  playerPath: /Users/chaselawbar/Documents/GitHub/mod1b-projects-1ChaseLawrence1-Prototype1-Pong/Web
+  playerPath: /Users/chaselawbar/Documents/GitHub/mod1b-projects-1ChaseLawrence1-Prototype1-Pong/WebGL
